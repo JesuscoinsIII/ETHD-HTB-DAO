@@ -1,9 +1,9 @@
-# Features
+# Upcoming Features
 ## 1. Proportional Ownership and Revenue Sharing
 Token holders will receive revenue shares proportional to their holdings.
 Revenue streams may include profits generated from the funded assets and operations.
 
-## 3. Voting Rights
+## 2. Voting Rights
 Token holders may participate in DAO governance by voting on proposals.
 Governance could include decisions on:
 Fund allocation.
@@ -11,15 +11,15 @@ Operational strategies.
 Expansion plans.
 (Optional: Enable voting rights based on the DAO’s roadmap.)
 
-## 4. Transferability
+## 3. Transferability
 Tokens are transferable and can be traded or sold on supported platforms.
 Ensures liquidity and flexibility for investors.
 
-## 5. Staking Rewards
+## 4. Staking Rewards
 Optional: To incentivize long-term holding, staking rewards may be introduced.
 Rewards could include additional tokens, exclusive privileges, or revenue bonuses.
 
-## 6. Token Standards
+## 5. Token Standards
 We are considering two token standards to support the desired use cases:
 
 ERC-20: For simple, fungible tokens representing governance and ownership.
