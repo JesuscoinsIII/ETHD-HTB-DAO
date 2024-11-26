@@ -39,3 +39,28 @@ for secure and audited token implementation.
 ## Deployment & Integration:
 Deployed to the Base Network for low-cost and efficient transactions.
 Integrated with front-end and back-end applications for seamless user interaction.
+
+# Getting Started
+
+### For Developers
+- **Clone the repository**:
+  ```bash
+  git clone https://github.com/your-username/ethdenver-dao.git
+
+- **Navigate to Project**:
+  ```bash
+  cd ETHB-HTB-DAO
+
+Follow instructions in the frontend and backend directories to set up the environment.
+
+## For Investors
+
+Visit our website or app to purchase tokens and participate in governance.
+
+## Wallet support: Compatible with MetaMask, WalletConnect, and other Ethereum-compatible wallets.
+
+## Future Plans
+* Expand the DAO to include additional vehicles and operations.
+* Introduce dynamic staking mechanisms and additional governance tools.
+* Collaborate with other DAOs and communities for joint ventures.
+
