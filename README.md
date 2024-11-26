@@ -1,2 +1,2 @@
 # ETHD-HTB-DAO
-A DeFi (Decentralized Auto-Finance) DAO
+A DAFD (Decentralized Auto-Finance) DAO
